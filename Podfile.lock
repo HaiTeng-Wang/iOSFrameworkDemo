@@ -1,0 +1,16 @@
+PODS:
+  - HHRouter (0.1.9)
+
+DEPENDENCIES:
+  - HHRouter (~> 0.1.8)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs:
+    - HHRouter
+
+SPEC CHECKSUMS:
+  HHRouter: c096524e95a07a1970e6e23a19ee5a9592dc326d
+
+PODFILE CHECKSUM: 3d464591a21b230964283cb4a495efcc7e920607
+
+COCOAPODS: 1.5.2

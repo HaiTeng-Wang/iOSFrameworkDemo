@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>首页</key>
+	<string>Home/HomePage</string>
+	<key>产品列表</key>
+	<string>Product/ProductList</string>
+	<key>产品详情</key>
+	<string>Product/Details</string>
+	<key>用户中心</key>
+	<string>User/UserInfo</string>
+	<key>用户奖励</key>
+	<string>User/Rewards</string>
+	<key>登录</key>
+	<string>User/Login</string>
+</dict>
+</plist>
